@@ -1,12 +1,12 @@
 # Introduction
 
-Welcome to the No Name Brand Platform API! You can use our API to access No Name Brand Platform API endpoints, for transactional banking.
+Welcome to the IMOGO Platform API! You can use our API to access IMOGO Platform API endpoints, for transactional banking.
 
 **THIS DOCUMENT IS SUBJECT TO CHANGE**
 
 You can view code examples in the dark area to the right.
 
-If you have any queries about the No Name Brand Platform API, please direct them to support at no name brand dot co dot za.
+If you have any queries about the IMOGO Platform API, please direct them to support at imogo dot co dot za.
 
 Our API uses JSON payloads over HTTPS and returns JSON payloads back.
 
